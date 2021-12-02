@@ -1,0 +1,17 @@
+A JavaBean is just a standard. Below are the standards
+    - All properties private (use getters/setters)
+    - A public no-argument constructor
+    - Implements Serializable.
+
+    Java provides a mechanism, called object serialization where an object can be represented as a
+    sequence of bytes that includes the object's data as well as information about the object's
+    type and the types of data stored in the object.
+
+
+Objective of this project :
+    - Create a Java Bean (EmployeeBean)
+    - Equivalent Groovy Bean (Employee)
+    - Look at a Groovy Bean under the hood (Check compiled class)
+    - How to use Groovy Beans
+    - How to write your own getters / setters
+    - Direct field access (check DoubleBean)

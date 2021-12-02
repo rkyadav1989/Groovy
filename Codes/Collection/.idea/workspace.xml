@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92c3e04f-61d3-4021-9404-e1458a1310d7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ProjectId" id="1sU5TY8hasvuy1ufavTi6IQTrjq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Groovy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager" selected="Groovy.Range (3)">
+    <configuration name="Map" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="Collection" />
+      <setting name="path" value="file://$PROJECT_DIR$/Map.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Range (1)" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="Collection" />
+      <setting name="path" value="file://$PROJECT_DIR$/Range.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Range (2)" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="Collection" />
+      <setting name="path" value="file://$PROJECT_DIR$/Range.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Range (3)" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="Collection" />
+      <setting name="path" value="file://$PROJECT_DIR$/Range.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Range" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="Collection" />
+      <setting name="path" value="file://$PROJECT_DIR$/Range.groovy" />
+      <setting name="vmparams" value="--add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.lang.invoke=ALL-UNNAMED" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercise" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="Collection" />
+      <setting name="path" value="file://$PROJECT_DIR$/exercise.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Groovy.Range (3)" />
+        <item itemvalue="Groovy.Range (2)" />
+        <item itemvalue="Groovy.Range (1)" />
+        <item itemvalue="Groovy.exercise" />
+        <item itemvalue="Groovy.Map" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92c3e04f-61d3-4021-9404-e1458a1310d7" name="Default Changelist" comment="" />
+      <created>1573629989966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573629989966</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="182" key="#Project_Structure" timestamp="1620916229972">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="182" key="#Project_Structure/-1920.100.1920.1040/1920.100.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1620916229972" />
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620915111400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.100.1920.1040/1920.100.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1620915111400" />
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1620982000518">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/-1920.100.1920.1040/1920.100.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1620982000518" />
+    <state width="1877" height="393" key="GridCell.Tab.0.bottom" timestamp="1620916238996">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="393" key="GridCell.Tab.0.bottom/-1920.100.1920.1040/1920.100.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1620916238996" />
+    <state width="1877" height="393" key="GridCell.Tab.0.center" timestamp="1620916238996">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="393" key="GridCell.Tab.0.center/-1920.100.1920.1040/1920.100.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1620916238996" />
+    <state width="1877" height="393" key="GridCell.Tab.0.left" timestamp="1620916238995">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="393" key="GridCell.Tab.0.left/-1920.100.1920.1040/1920.100.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1620916238995" />
+    <state width="1877" height="393" key="GridCell.Tab.0.right" timestamp="1620916238996">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="393" key="GridCell.Tab.0.right/-1920.100.1920.1040/1920.100.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1620916238996" />
+    <state x="643" y="159" key="SettingsEditor" timestamp="1620915885787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="643" y="159" key="SettingsEditor/-1920.100.1920.1040/1920.100.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1620915885787" />
+    <state x="668" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1620980928418">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="349" key="com.intellij.ide.util.TipDialog/-1920.100.1920.1040/1920.100.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1620980928418" />
+  </component>
+</project>
